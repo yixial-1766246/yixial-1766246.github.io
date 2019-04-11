@@ -1,2 +1,2 @@
-# yixial-1766266.gihut.io
+# yixial-1766266.github.io
 info 101
